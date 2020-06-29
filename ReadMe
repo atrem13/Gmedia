@@ -1,0 +1,5 @@
+1. clone project
+2. jalankakan perintah composer install
+3. sesuaikan file .env sesuai database
+4. jalankan perintah php artisan migrate / import file Gmedia.sql
+5. link uji coba di localhost:8000/api/check1 untuk soal no 1 dan localhost:8000/api/check1 untuk soal no 2 
